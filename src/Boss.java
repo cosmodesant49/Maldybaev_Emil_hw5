@@ -2,11 +2,6 @@ public class Boss {
     private int bossHp;
     private int bossDamage;
     private String bossDefense;
-    public Boss(int bossHp, int bossDamage, String bossDefense){
-        this.bossHp=bossHp;
-        this.bossDamage=bossDamage;
-        this.bossDefense=bossDefense;
-    }
 
 
     public int getBossHp() {
